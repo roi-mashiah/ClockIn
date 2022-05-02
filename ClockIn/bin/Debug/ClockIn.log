@@ -1,0 +1,901 @@
+2021-07-30 20:01:25,443 [1] ERROR ClockIn.MainForm - String was not recognized as a valid DateTime.
+2021-07-30 20:01:25,486 [1] ERROR ClockIn.MainForm - String was not recognized as a valid DateTime.
+2021-07-30 20:01:25,515 [1] ERROR ClockIn.MainForm - String was not recognized as a valid DateTime.
+2021-07-30 20:01:25,543 [1] ERROR ClockIn.MainForm - String was not recognized as a valid DateTime.
+2021-07-30 20:02:06,941 [1] ERROR ClockIn.MainForm - String was not recognized as a valid DateTime.
+2021-07-30 20:02:11,435 [1] ERROR ClockIn.MainForm - String was not recognized as a valid DateTime.
+2021-07-30 20:02:11,469 [1] ERROR ClockIn.MainForm - String was not recognized as a valid DateTime.
+2021-07-30 20:02:11,494 [1] ERROR ClockIn.MainForm - String was not recognized as a valid DateTime.
+2021-07-30 20:02:11,521 [1] ERROR ClockIn.MainForm - String was not recognized as a valid DateTime.
+2021-07-30 20:02:11,551 [1] ERROR ClockIn.MainForm - String was not recognized as a valid DateTime.
+2021-07-30 20:02:11,580 [1] ERROR ClockIn.MainForm - String was not recognized as a valid DateTime.
+2021-07-30 20:02:11,607 [1] ERROR ClockIn.MainForm - String was not recognized as a valid DateTime.
+2021-07-30 20:02:11,633 [1] ERROR ClockIn.MainForm - String was not recognized as a valid DateTime.
+2021-07-30 20:02:11,659 [1] ERROR ClockIn.MainForm - String was not recognized as a valid DateTime.
+2021-07-30 20:02:11,689 [1] ERROR ClockIn.MainForm - String was not recognized as a valid DateTime.
+2021-07-30 20:02:11,717 [1] ERROR ClockIn.MainForm - String was not recognized as a valid DateTime.
+2021-07-30 20:02:11,744 [1] ERROR ClockIn.MainForm - String was not recognized as a valid DateTime.
+2021-07-30 21:58:26,798 [1] ERROR ClockIn.MainForm - Specified cast is not valid.
+2021-07-30 22:07:27,021 [1] ERROR ClockIn.MainForm - Invalid usage of aggregate function Sum() and Type: String.
+2021-07-30 22:08:59,167 [1] ERROR ClockIn.MainForm - Invalid usage of aggregate function Sum() and Type: String.
+2021-07-30 22:24:33,389 [1] INFO ClockIn.MainForm - 
+2021-07-30 22:25:19,731 [1] INFO ClockIn.MainForm - 
+2021-07-30 22:26:22,827 [1] INFO ClockIn.MainForm - 
+2021-07-30 22:42:34,041 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:34,061 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:34,062 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:34,064 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:34,065 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:34,066 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:34,075 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:34,076 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:34,079 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:34,080 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:34,082 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:34,083 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:58,882 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:58,899 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:58,900 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:58,901 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:58,902 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:58,904 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:58,906 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:58,907 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:58,909 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:58,910 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:58,914 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:42:58,916 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:44:42,232 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:44:42,233 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:44:42,234 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:44:42,235 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:44:42,236 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:44:42,236 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:44:42,237 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:44:42,239 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:44:42,240 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:44:42,241 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:44:42,241 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:44:42,243 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:45:47,281 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:46:00,059 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:46:02,462 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:46:03,892 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:46:36,927 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:46:38,226 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:46:39,476 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:46:41,333 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:46:42,676 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:46:44,548 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:46:48,687 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:47:45,639 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:47:45,653 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:47:45,653 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:47:45,654 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:47:45,656 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:47:45,657 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:47:45,658 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:47:45,659 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:47:45,660 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:47:45,661 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:47:45,661 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:47:45,662 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:50:50,555 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:50:51,528 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:50:52,459 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:50:53,532 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:50:54,373 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:50:55,495 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:50:56,473 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:50:57,936 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:50:59,607 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:51:00,989 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:51:03,310 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:51:57,522 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:51:57,534 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:51:57,534 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:51:57,535 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:51:57,537 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:51:57,539 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:51:57,542 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:51:57,543 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:51:57,544 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:51:57,546 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:51:57,547 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:51:57,548 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:21,639 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:21,639 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:21,641 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:21,643 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:21,644 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:21,646 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:21,647 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:21,651 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:21,653 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:21,658 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:21,659 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:21,660 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:54,269 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:54,283 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:54,283 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:54,284 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:54,284 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:54,286 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:54,292 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:54,293 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:54,294 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:54,297 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:54,297 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:52:57,531 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:21,452 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:21,464 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:21,465 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:21,467 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:21,468 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:21,470 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:21,473 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:21,476 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:21,477 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:21,479 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:21,480 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:21,482 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:51,427 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:51,437 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:51,438 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:51,438 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:51,439 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:51,440 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:51,442 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:51,444 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:51,445 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:51,446 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:51,446 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:53:51,447 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:54:21,046 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:54:21,055 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:54:21,057 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:54:21,059 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:54:21,059 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:54:21,061 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:54:21,062 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:54:21,064 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:54:21,065 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:54:21,066 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:54:21,067 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:54:21,069 [1] DEBUG ClockIn.MainForm - 
+2021-07-30 22:58:25,624 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 53
+2021-07-30 23:20:47,192 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 58
+2021-07-31 19:00:48,451 [1] ERROR ClockIn.MainForm - The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+2021-08-05 19:16:42,521 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 84
+2021-08-28 11:30:09,073 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:30:09,103 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:30:09,118 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:30:09,131 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:30:09,145 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:30:09,158 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:30:09,174 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:30:09,189 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:30:09,202 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:30:09,216 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:30:09,229 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:30:09,244 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:33:34,924 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:33:34,954 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:33:34,973 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:33:34,991 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:33:35,008 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:33:35,025 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:33:35,039 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:33:35,052 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:33:35,066 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:33:35,085 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:33:35,100 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:33:35,117 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:36:06,511 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:36:06,542 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:36:06,558 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:36:06,579 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:36:06,603 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:36:06,620 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:36:06,635 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:36:06,646 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:36:06,664 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:36:06,679 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:36:06,692 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:36:06,705 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:44:14,261 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:44:14,287 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:44:14,302 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:44:14,318 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:44:14,334 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:44:14,347 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:44:14,365 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:44:14,377 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:44:14,390 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:44:14,402 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:44:14,414 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:44:14,426 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:44:14,437 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:44:14,449 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:44:14,461 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:44:14,473 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:44:14,486 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:53:53,965 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:53:53,995 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:53:54,013 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:53:54,032 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:53:54,048 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:53:54,065 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:53:54,081 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:53:54,097 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:53:54,115 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:53:54,131 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:53:54,148 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:53:54,164 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:53:54,180 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:53:54,195 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:53:54,211 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:53:54,226 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-08-28 11:53:54,243 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:28:51,821 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:28:51,894 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:28:51,928 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:28:51,963 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:28:51,997 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:28:52,032 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:28:52,060 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:28:52,089 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:28:52,123 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:22,423 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:22,460 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:22,499 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:22,533 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:22,566 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:22,599 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:22,633 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:22,669 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:22,703 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:22,736 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:22,766 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:22,793 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:35,251 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:35,287 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:35,326 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:35,358 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:35,394 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:35,432 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:35,463 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:35,491 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:35,517 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:35,545 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:35,571 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:29:35,601 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,323 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,389 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,421 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,458 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,493 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,530 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,559 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,586 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,615 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,642 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,671 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,702 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,739 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,774 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,809 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,850 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,878 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,909 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,944 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:30:05,976 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:31:57,205 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:31:57,272 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:31:57,306 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:31:57,344 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:31:57,371 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:31:57,409 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:31:57,442 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:31:57,469 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:31:57,496 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:36:27,100 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:36:27,157 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:36:27,183 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:36:27,214 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:36:27,247 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:36:27,282 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:36:27,315 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:36:27,344 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:36:27,370 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:49:05,499 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:49:05,570 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:49:05,602 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:49:05,638 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:49:05,665 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:49:05,696 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:49:05,735 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:49:05,775 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2021-10-18 10:49:05,816 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:58:36,326 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:58:36,367 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:58:36,386 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:58:36,406 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:58:36,427 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:58:36,445 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:58:36,463 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:58:36,482 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:58:36,504 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:59:07,848 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:59:07,886 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:59:07,906 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:59:07,926 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:59:07,944 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:59:07,966 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:59:07,987 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:59:08,007 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:59:08,025 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:59:54,865 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:59:54,899 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:59:54,915 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:59:54,936 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:59:54,954 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:59:54,975 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:59:54,993 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:59:55,013 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 21:59:55,030 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 85
+2022-03-31 22:25:33,788 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:25:33,826 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:25:33,844 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:25:33,863 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:25:33,882 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:25:33,902 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:25:33,921 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:25:33,942 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:25:33,958 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:29:44,450 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:29:44,489 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:29:44,510 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:29:44,533 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:29:44,552 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:29:44,577 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:29:44,596 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:29:44,615 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:29:44,638 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:33:46,861 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:33:46,901 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:33:46,919 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:33:46,942 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:33:46,964 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:33:46,989 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:33:47,010 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:33:47,028 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:33:47,044 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:35:05,188 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:35:05,227 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:35:05,249 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:35:05,273 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:35:05,292 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:35:05,312 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:35:05,335 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:35:05,354 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:35:05,374 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:36:31,614 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:36:31,649 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:36:31,667 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:36:31,686 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:36:31,705 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:36:31,724 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:36:31,743 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:36:31,760 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:36:31,782 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:39:23,469 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:39:23,503 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:39:23,523 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:39:23,543 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:39:23,566 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:39:23,585 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:39:23,603 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:39:23,619 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:39:23,640 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:42:11,537 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:42:11,574 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:42:11,592 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:42:11,609 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:42:11,628 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:42:11,649 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:42:11,666 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:42:11,683 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:42:11,702 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:42:28,500 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 86
+2022-03-31 22:42:50,862 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:42:50,905 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:42:50,923 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:42:50,944 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:42:50,965 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:42:50,984 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:42:51,003 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:42:51,020 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:42:51,037 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:52:43,898 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:52:43,930 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:52:43,947 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:52:43,965 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:52:43,983 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:52:44,002 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:52:44,022 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:52:44,041 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:52:44,060 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:53:10,463 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:53:10,500 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:53:10,523 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:53:10,548 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:53:10,567 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:53:10,588 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:53:10,607 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:53:10,623 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:53:10,639 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:55:45,443 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:55:45,481 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:55:45,499 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:55:45,518 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:55:45,537 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:55:45,554 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:55:45,573 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:55:45,592 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:55:45,609 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:59:18,978 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:59:19,016 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:59:19,039 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:59:19,059 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:59:19,080 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:59:19,100 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:59:19,118 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:59:19,137 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:59:19,154 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:59:21,577 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:59:21,591 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:59:21,605 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:59:21,617 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:59:21,629 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:59:21,645 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:59:21,657 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 22:59:21,670 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:00:26,352 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:00:26,373 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:00:26,387 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:00:26,401 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:01:30,814 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:01:30,850 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:01:30,871 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:01:30,896 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:01:30,926 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:01:30,953 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:01:30,973 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:01:30,994 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:01:31,013 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:01:34,906 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:01:34,920 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:01:34,934 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:01:34,947 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:01:34,961 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:01:34,976 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:01:34,991 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:01:35,005 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:02:26,577 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:02:26,610 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:02:26,633 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:02:26,652 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:02:26,672 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:02:26,691 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:02:26,708 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:02:26,729 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:02:26,749 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:02:28,237 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:02:28,254 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:04:47,289 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:04:47,324 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:04:47,349 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:04:47,375 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:04:47,392 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:04:47,414 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:04:47,432 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:04:47,452 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:04:47,474 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:04:49,819 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:04:49,832 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:04:49,847 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:04:49,860 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:04:49,872 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:04:49,883 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:04:49,897 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:04:49,910 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:06:57,239 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:06:57,283 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:06:57,311 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:06:57,333 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:06:57,357 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:06:57,380 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:06:57,398 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:06:57,418 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:06:57,439 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:07:01,928 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:07:01,941 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:07:01,954 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:07:01,967 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:07:01,981 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:07:01,994 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:07:02,010 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:07:02,025 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:07:02,039 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:07:02,054 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:07:02,067 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:07:02,079 [1] ERROR ClockIn.MainForm - System.InvalidCastException: Specified cast is not valid.
+   at ClockIn.MainForm.TimeTable_RowChanged(Object sender, DataRowChangeEventArgs e) in C:\Projects\ClockIn\ClockIn\MainForm.cs:line 87
+2022-03-31 23:27:48,416 [1] ERROR ClockIn.MainForm - The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
